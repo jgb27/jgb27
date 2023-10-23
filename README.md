@@ -11,8 +11,8 @@
 - 📊 Banco de Dados: MySQL
 
 ## Entre em Contato
-- 📫 Você pode me alcançar pelo email: [seuemail@example.com]
-- 🔗 LinkedIn: [João Gustavo](https://www.linkedin.com/in/seu-perfil-linkedin)
+- 📫 Você pode me alcançar pelo email: jgbispo20@gmail.com.com
+- 🔗 LinkedIn: [João Gustavo](https://www.linkedin.com/in/jgbispo)
 - 😄 Fique à vontade para explorar meus repositórios e projetos no GitHub.
 
 ## Ultimos Projetos
@@ -20,6 +20,6 @@
 - [api-abelhinha](https://github.com/jgb27/api-abelhinha): Esta API é responsável por gerenciar as conexões do Abelhinha Pedagógica. Ela foi desenvolvida usando Express para o servidor, MongoDB como banco de dados e AWS para o armazenamento de imagens.
 
 ## Estatísticas do GitHub
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jgb27&show_icons=true&theme=dark)]
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jgb27&show_icons=true&theme=dark)
 
 Espero que você encontre algo interessante nos meus repositórios! 😊
