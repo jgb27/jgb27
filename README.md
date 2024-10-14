@@ -1,6 +1,6 @@
 
 <h1 align="left">Hey There <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I am João Gustavo!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luisfilipepedroso&color=blueviolet" alt="Profile views" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jgb27&color=blueviolet" alt="Profile views" /> 
 </p>
 
 - 🏫 Graduated in Computer Networks from Estácio
